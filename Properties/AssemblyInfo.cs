@@ -1,6 +1,6 @@
 ﻿/*
  * Idmr.Platform.dll, X-wing series mission library file, XW95-XWA
- * Copyright (C) 2009-2025 Michael Gaisser (mjgaisser@gmail.com)
+ * Copyright (C) 2009-2026 Michael Gaisser (mjgaisser@gmail.com)
  * Licensed under the MPL v2.0 or later
  * 
  * Full notice in ../help/Idmr.Platform.chm
@@ -16,10 +16,10 @@ using System.Reflection;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Imperial Department of Military Research")]
 [assembly: AssemblyProduct("Idmr.Platform.dll")]
-[assembly: AssemblyCopyright("Copyright © Michael Gaisser 2009-2025")]
+[assembly: AssemblyCopyright("Copyright © Michael Gaisser 2009-2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-[assembly: AssemblyVersion("7.1.*")]
-[assembly: AssemblyFileVersion("7.1.0.0")]
-[assembly: AssemblyInformationalVersion("7.1 final")]
+[assembly: AssemblyVersion("7.3.*")]
+[assembly: AssemblyFileVersion("7.3.0.0")]
+[assembly: AssemblyInformationalVersion("7.3 final")]

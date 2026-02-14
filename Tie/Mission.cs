@@ -1,12 +1,13 @@
 /*
  * Idmr.Platform.dll, X-wing series mission library file, XW95-XWA
- * Copyright (C) 2009-2025 Michael Gaisser (mjgaisser@gmail.com)
+ * Copyright (C) 2009-2026 Michael Gaisser (mjgaisser@gmail.com)
  * Licensed under the MPL v2.0 or later
  * 
  * Full notice in ../help/Idmr.Platform.chm
- * Version: 7.2+
+ * Version: 7.3
  * 
  * CHANGELOG
+ * v7.3, 260214
  * [UPD] facial expressions I/O
  * v7.2, 250309
  * [UPD YOGEME #120] Accounted for message qty overflow

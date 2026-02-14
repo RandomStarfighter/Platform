@@ -11,15 +11,10 @@ Contributors:
 Library for editing LucasArts *.XWI and *.TIE mission files for Xwing95, TIE95, XvT and XWA.
 
 ## Latest Release
-#### WIP
+#### v7.3, 14 Feb 2026
 - (TIE) Briefing Officer questions now include ability to control facial expressions.
   - Note: currently this is setup to handle a "per question" basis, though it should technically be possible to control on a "per page" basis.
 - (TIE) Added `QuestionCondition.Always`, renamed `QuestionCondition.None` to `.Never`, and deleted `QuestionType.None`. ***BREAKING CHANGE***
-
-#### v7.2, 09 Mar 2025
-- (TIE, XvT) Missions with too many Messages will now load, though the excess will be lost. [[YOGEME#120](https://github.com/MikeG621/YOGEME/issues/120)]
-  - Note: Does not apply to XWA due to Messages being valid Trigger inputs, so simply deleting can break the mission.
-
 ---
 ### Additional Information
 
@@ -31,6 +26,9 @@ Mission*.txt files contain file structure information per platform.
 Programmer's reference can be found in the [help file](help/Idmr.Platform.chm).
 
 ### Version History
+#### v7.2, 09 Mar 2025
+- (TIE, XvT) Missions with too many Messages will now load, though the excess will be lost. [[YOGEME#120](https://github.com/MikeG621/YOGEME/issues/120)]
+  - Note: Does not apply to XWA due to Messages being valid Trigger inputs, so simply deleting can break the mission.
 
 #### v7.1, 02 Feb 2025
 - (TIE) "Board to Destroy Cargo" now "Board with no Effect". [[YOGEME#117](https://github.com/MikeG621/YOGEME/issues/117)]
